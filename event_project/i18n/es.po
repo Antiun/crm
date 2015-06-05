@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-05-09 11:24+0000\n"
-"PO-Revision-Date: 2015-05-09 11:24+0000\n"
+"POT-Creation-Date: 2015-06-05 09:00+0000\n"
+"PO-Revision-Date: 2015-06-05 09:00+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -21,24 +21,15 @@ msgid "Event"
 msgstr "Evento"
 
 #. module: event_project
-#: field:project.task,anticipation_days:0
-msgid "Event anticipation days"
-msgstr "Días de anticipación del evento"
-
-#. module: event_project
-#: help:project.task,anticipation_days:0
-msgid "Previous day to event date begin"
-msgstr "Días previos a la fecha inicio del evento"
-
-#. module: event_project
-#: field:event.event,project_related:0
+#: field:event.event,project:0
 msgid "Related project"
 msgstr "Projecto relacionado"
 
 #. module: event_project
-#: model:ir.model,name:event_project.model_project_task
-msgid "Task"
-msgstr "Tarea"
+#: view:event.event:event_project.view_event_form_project
+#: model:ir.actions.act_window,name:event_project.act_event_task_list
+msgid "Tasks"
+msgstr "Tareas"
 
 #. module: event_project
 #: field:event.event,project_template:0
