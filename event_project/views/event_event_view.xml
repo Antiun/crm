@@ -22,7 +22,7 @@
                 </field>
 
                 <notebook position="inside">
-                    <page string="Tareas" attrs="{'invisible':[('project','=',False)]}">
+                    <page string="Tasks" attrs="{'invisible':[('project','=',False)]}">
                         <field name="tasks" nolabel="1" context="{'search_default_project_id': project}"/>
                     </page>
                 </notebook>
