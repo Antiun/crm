@@ -6,7 +6,6 @@
 #    This module copyright :
 #        (c) 2014 Antiun Ingenieria S.L. (Madrid, Spain, http://www.antiun.com)
 #                 Endika Iglesias <endikaig@antiun.com>
-#                 Antonio Espinosa <antonioea@antiun.com>
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as
@@ -23,6 +22,4 @@
 #
 ##############################################################################
 
-from . import project_project
-from . import project_task
 from . import event_event
