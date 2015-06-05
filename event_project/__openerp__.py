@@ -5,7 +5,6 @@
 #    This module copyright :
 #        (c) 2014 Antiun Ingenieria S.L. (Madrid, Spain, http://www.antiun.com)
 #                 Endika Iglesias <endikaig@antiun.com>
-#                 Antonio Espinosa <antonioea@antiun.com>
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as
@@ -25,15 +24,13 @@
 {
     "name": "Event project",
     "version": "1.0",
-    "author": "Antiun Ingeniería S.L., "
-              "Serv. Tecnol. Avanzados - Pedro M. Baeza, ",
+    "author": "Antiun Ingeniería S.L., ",
     "website": "http://www.antiun.com",
     "license": "AGPL-3",
     "category": "Event Management",
-    "depends": ['base', 'event', 'project'],
+    "depends": ['base', 'event', 'project_recalculate'],
     'data': [
         "views/event_event_view.xml",
-        "views/project_task_view.xml",
     ],
     "installable": True,
 }
