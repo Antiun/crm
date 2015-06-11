@@ -18,30 +18,30 @@ msgstr ""
 #. module: event_project
 #: model:ir.model,name:event_project.model_event_event
 msgid "Event"
-msgstr "Evento"
+msgstr ""
 
 #. module: event_project
 #: field:project.task,anticipation_days:0
 #: help:project.task,anticipation_days:0
 msgid "Event anticipation days"
-msgstr "Días de anticipación del evento"
+msgstr ""
 
 #. module: event_project
 #: model:ir.model,name:event_project.model_project_project
 msgid "Project"
-msgstr "Proyecto"
+msgstr ""
 
 #. module: event_project
 #: field:event.event,project:0
 msgid "Related project"
-msgstr "Proyecto relacionado"
+msgstr ""
 
 #. module: event_project
 #: model:ir.model,name:event_project.model_project_task
 msgid "Task"
-msgstr "Tarea"
+msgstr ""
 
 #. module: event_project
 #: field:event.event,project_template:0
 msgid "Template project"
-msgstr "Plantilla de proyecto"
+msgstr ""
