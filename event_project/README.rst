@@ -26,6 +26,8 @@ Contributors
 ------------
 
 * Endika Iglesias <endikaig@antiun.com>
+* Rafael Blasco <rafabn@antiun.com>
+
 
 Maintainer
 ----------
