@@ -1,11 +1,11 @@
-
-# -*- encoding: utf-8 -*-
+# -*- coding: utf-8 -*-
+# Python source code encoding : https://www.python.org/dev/peps/pep-0263/
 ##############################################################################
 #
 #    OpenERP, Open Source Management Solution
 #    This module copyright :
-#        (c) 2014 Antiun Ingenieria S.L. (Madrid, Spain, http://www.antiun.com)
-#                 Endika Iglesias <endikaig@antiun.com>
+#        (c) 2015 Antiun Ingenieria, SL (Madrid, Spain, http://www.antiun.com)
+#                 Antonio Espinosa <antonioea@antiun.com>
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as
@@ -22,4 +22,4 @@
 #
 ##############################################################################
 
-from . import event_event
+from . import mail_mail
