@@ -24,7 +24,6 @@ install:
   - pip install unicodecsv
   - git clone --depth=1 https://github.com/OCA/maintainer-quality-tools.git ${HOME}/maintainer-quality-tools
   - git clone --depth=1 https://github.com/OCA/partner-contact.git ${HOME}/partner-contact
-  - git clone --depth=1 https://github.com/OCA/project-service.git ${HOME}/project_recalculate
   - export PATH=${HOME}/maintainer-quality-tools/travis:${PATH}
   - travis_install_nightly
 # example: dependency
