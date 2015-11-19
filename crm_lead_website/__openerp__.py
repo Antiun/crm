@@ -2,9 +2,9 @@
 # © 2015 Antiun Ingeniería, S.L.
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
 {
-    "name": "Supplier check box in leads",
-    "summary": "Add fields to know if leads are suppliers too",
-    "version": "8.0.1.1.0",
+    "name": "Website in leads",
+    "summary": "Add Website field to leads",
+    "version": "8.0.1.0.0",
     "category": "Customer Relationship Management",
     "website": "https://odoo-community.org/",
     "author": "Antiun Ingeniería, S.L., Odoo Community Association (OCA)",
